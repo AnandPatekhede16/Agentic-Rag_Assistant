@@ -13,6 +13,7 @@ export function ChatPanel({ stream }: { stream: Stream }) {
         messages={stream.messages}
         liveAnswer={stream.answer}
         streaming={streaming}
+        onSelectPrompt={stream.send}
       />
       {stream.error && (
         <div className="mx-auto flex max-w-3xl items-center gap-2 px-4 pb-2 text-xs text-danger">

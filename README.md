@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Agentic RAG Assistant
+# 🧠 Nexus AI — Agentic RAG Assistant
 
 ### An autonomous AI agent that researches your private documents **and** the live web — streaming every thought, step, and token to a polished React UI with inline citations.
 
